@@ -6,7 +6,7 @@ def main():
     pygame.init()
     pygame.display.set_caption("Moving Smile")
     screen = pygame.display.set_mode((640, 480))
-    
+
     eye_x = 0
     eye_y = 0
     clock = pygame.time.Clock()
